@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(23, 11, 11);
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(65, 167, 198);
+    padding: 20px 130px;
+    word-spacing: 250px;
+    text-decoration: none;
+    font-size: x-large;
+    text-align: center;  
+}
+p{
+   
+    padding: auto;
+    text-align: center;
+    background-color: rgb(39, 211, 108);
+   color: white;
+   font-size: xx-large;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    background-color: rgb(57, 228, 100);
+    padding: 5px;
+}
+img{
+position:absolute;
+width: 60px;
+height: auto;
+left: 15px;
+top: 4px;
+border-radius: 10px;
+}
+
